@@ -14,7 +14,7 @@ The program is capable of converting decimal numbers from one base to another. T
 decimal number in the target base will be printed to five decimal digits after the decimal
 point. For instance, if the user converts 0.375 from decimal base to binary base, the result
 will be: 0.01100 (because 0.375 = 0 * 0.5 + 1 * 0.25 + 1 * 0.125, where 0.5 corresponds to 
-2^-1, 0.25 to 2^-2, and 0.125 to 2^-3, respectively). The result is then padded with 0 to 5
+2^-1, 0.25 to 2^-2, and 0.125 to 2^-3, respectively. The result is then padded with 0 to 5
 decimal places). 
 
 In the base menu (where the user is prompted to enter source base and target base), the user
